@@ -25,7 +25,8 @@ The user can type node index.js in the command line to bring up a series of prom
 
 
 GitHub URL: https://github.com/mtownsend509/Employee-Tracker
-APP video: 
+APP video: [Untitled_ Dec 20, 2022 9_46 PM.webm](https://user-images.githubusercontent.com/111660791/208831894-da964b10-288a-4ed6-bf6b-515a299535e5.webm)
+
 
 
 ## Credits
